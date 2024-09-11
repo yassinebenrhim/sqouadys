@@ -1,17 +1,6 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
-    /**
+    /*
        * COLORS
        */
   
@@ -84,7 +73,7 @@
        * SPACING
        */
   
-    --section-spacing: 60px;
+    --section-spacing: 20px;
   
     /**
        * BOX SHADOW
@@ -1038,7 +1027,7 @@
          * SPACING
          */
   
-      --section-spacing: 100px;
+       
     }
   
     /**
